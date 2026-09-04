@@ -1,0 +1,25 @@
+
+
+
+#container {
+
+    height: 900px;
+    width: 900px;
+    display: flex;
+    flex-direction: row;
+    justify-content:
+    space-around;
+    background-color: brown;
+    align-items: center;
+    
+}
+#a1 {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+}
+#a2 {
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+}

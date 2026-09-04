@@ -1,0 +1,23 @@
+#lucky {
+    color: blue;
+    background-color: yellow;
+
+}
+ /* #lucky:hover {
+    color: rgb(242, 219, 219);
+    background-color: green;
+}
+#lucky:active {
+    color: rgb(242, 219, 219);
+    background-color: red; */
+
+
+#lucky:hover {
+    color: rgb(242, 219, 219);
+    background-color: purple;
+    transform: translate(20px);
+    transition: all 3s ease;
+    
+    
+} 
+

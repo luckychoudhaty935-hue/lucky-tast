@@ -1,0 +1,18 @@
+#hello{
+
+    color: brown;
+
+    background-color: chartreuse;
+
+}
+
+
+@media screen and (max-width:600px){
+
+
+    #hello{
+        color: chocolate;
+
+        background-color: red;
+    }
+}
